@@ -1,0 +1,6 @@
+.cache.sqlite
+.fastweathercfg.json
+venv/
+test.py
+build/
+dist/
